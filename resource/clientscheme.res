@@ -2630,6 +2630,36 @@ Scheme
 				"antialias" "1"
 			}
 		}
+		
+		GroteskBold12
+		{
+			"1"
+			{
+				"name"		"Alte Haas Grotesk Bold"
+				"tall"		"12"
+				"antialias" "1"
+			}
+		}
+		
+		GroteskBold18
+		{
+			"1"
+			{
+				"name"		"Alte Haas Grotesk Bold"
+				"tall"		"18"
+				"antialias" "1"
+			}
+		}
+		
+		GroteskBold24
+		{
+			"1"
+			{
+				"name"		"Alte Haas Grotesk Bold"
+				"tall"		"24"
+				"antialias" "1"
+			}
+		}
 
 	}
 
