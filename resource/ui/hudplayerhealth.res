@@ -66,16 +66,16 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"PlayerStatusHealthValue"
 		"xpos"			"24"
-		"ypos"			"43.5"	[$WIN32]
+		"ypos"			"37"	[$WIN32]
 		"zpos"			"5"
 		"wide"			"50"
-		"tall"			"12"
+		"tall"			"24"
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
-		"font"			"GroteskBold12"
-		"fgcolor"		"TanDark"
+		"font"			"GroteskBold24"
+		"fgcolor"		"255 255 255 255"
 	}								
 	"PlayerStatusBleedImage"
 	{
