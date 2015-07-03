@@ -131,7 +131,7 @@
 		"fieldName"		"AmmoNoClip"
 		"font"			"GroteskBold18"
 		"fgcolor"		"255 255 255 255"
-		"xpos"			"50"
+		"xpos"			"48"
 		"ypos"			"30"
 		"zpos"			"5"
 		"wide"			"55"
