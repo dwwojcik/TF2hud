@@ -74,7 +74,7 @@
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
-		"font"			"GroteskBold24"
+		"font"			"GroteskBold18"
 		"fgcolor"		"255 255 255 255"
 	}								
 	"PlayerStatusBleedImage"
